@@ -37,7 +37,7 @@ Oyun dünyasının performans gereksinimlerini, MikroTik ve Cloudflare altyapı 
 ---
 
 ### 🌐 Bağlantılar
-* 🎮 **Discord:** [KullanıcıAdın#0000](discord.gg/qJXVZ8pAf9)
+* 🎮 **Discord:** [Takılmakistersen](discord.gg/qJXVZ8pAf9)
 * 📺 **YouTube:** [Kanalımı Ziyaret Et](https://www.youtube.com/@mustmator)
 * 🟢 **Kick:** [Canlı Yayınları İzle](https://kick.com/mustmator)
 ---
