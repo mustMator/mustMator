@@ -1,43 +1,46 @@
-# ⚙️ Game Dev & Network Infrastructure 🎮
 
-## **Yazılım Geliştirici | Game Dev & Network Specialist**
+# ⚙️ Game Dev & Network Infrastructure
 
-C++ ve C# dilleriyle yüksek performanslı oyun sistemleri geliştiriyor, JavaScript ve PHP ile web tabanlı backend projeleri inşa ediyorum. Veri tabanı yönetimini SQL ile optimize ederken, ağ altyapısını MikroTik ve Cloudflare kullanarak güvenli ve yüksek performanslı hale getiriyorum.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=SOFTWARE%20ARCHITECT&fontSize=70&animation=fadeIn" />
+</p>
+
+### 🛠️ Hakkımda
+C++ ve C# ile yüksek performanslı oyun sistemleri geliştiriyor, JavaScript ve PHP ile ölçeklenebilir backend projeleri inşa ediyorum. Ağ altyapısını **MikroTik** ve **Cloudflare** ile optimize ederek güvenli ve düşük gecikmeli (low-latency) yapılar kuruyorum.
 
 ---
 
 ### 🚀 Teknik Yetenekler
 
-| Kategori              | Yetenekler                                                              |
-| :-------------------- | :---------------------------------------------------------------------- |
-| **Programlama Dilleri** | `C++`, `C#`, `JavaScript`, `PHP`, `SQL`, `Bash`                         |
-| **Oyun Geliştirme** | Unity, Unreal Engine (Temel), Multiplayer Sunucu Mimarileri, Low-Latency Networking |
-| **Ağ & Altyapı** | MikroTik RouterOS, Cloudflare Edge Network, DDoS Mitigation, VPN, CDN   |
-| **Veri & Backend** | PostgreSQL, MySQL, RESTful API Tasarımı                                 |
-| **Versiyon Kontrol** | Git, GitHub                                                             |
+**Diller & Teknolojiler**
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Altyapı & Güvenlik**
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-EE1F26?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
-### 📊 GitHub Aktivitesi
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[SENIN_GITHUB_ADIN]&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[SENIN_GITHUB_ADIN]&layout=compact&theme=dark)
-
----
-
-### 🌟 Öne Çıkan Projeler
-
-* **[GameServerShield]:** C# tabanlı oyun sunucuları için Cloudflare entegrasyonlu DDoS koruma çözümü.
-* **[MikroTik-Cloudflare-Scripts]:** MikroTik cihazlarından Cloudflare API'ye otomatik kural ekleyen Bash/Python betikleri.
-* **[EdgeLobby-JS]:** Cloudflare Workers üzerinde çalışan, düşük gecikmeli oyun lobisi ve matchmaking servisi (JavaScript).
+### 📊 GitHub İstatistikleri
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=[KULLANICI_ADIN]&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
 
 ---
 
-### 📫 Bağlantılarım
-
-* **Discord:** [Kullanıcı Adın veya ID'n]
-* **YouTube:** [[youtube.com/@KanalAdın](https://youtube.com/@KanalAdın)]
-* **Kick:** [[kick.com/KanalAdın](https://kick.com/KanalAdın)]
+### 📱 Bağlantılar
+| Platform | Link |
+| :--- | :--- |
+| **Discord** | `KullanıcıAdın#0000` |
+| **YouTube** | [Kanalına Git](https://youtube.com/@[KanalAdın]) |
+| **Kick** | [Yayına Katıl](https://kick.com/[KanalAdın]) |
 
 ---
-*"Kodu yazmak sadece başlangıçtır, onu ayakta tutmak mühendisliğin ta kendisidir."*
+<p align="center">
+  <i>"Latency is the enemy, code is the weapon."</i>
+</p>
